@@ -1,0 +1,16 @@
+.footer {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+.footer-container {
+  display: grid;
+  place-items: center;
+  gap: 1rem;
+}
+
+.footer a {
+  text-decoration: underline dashed;
+  color: #0b0be5b3;
+}
